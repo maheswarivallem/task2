@@ -1,0 +1,42 @@
+h1{
+    text-align: center;
+}
+.container{
+    background-color: greenyellow;
+    height: 50px;
+}
+.navBtn{
+    margin-left: 500px;
+}
+.navBtn1{
+    margin-left: 580px;
+}
+.navBtn2{
+    margin-left: 600px;
+}
+.containerBtn{
+   margin-left: 300px;
+   margin-top: 50px;
+   border: 3px solid pink;
+
+}
+h2{
+    text-align: center;
+    background-color: aqua;
+}
+.containerBtn1{
+    text-align: center;
+    width: 20%;
+    border: 3px burlywood;
+}
+.subbu{
+    background-color: greenyellow;
+}
+.containerBtn2{
+    text-align: center;
+    width: 20px;
+    border: 3px solid black;
+}
+.nav{
+    width: 25px;
+}
